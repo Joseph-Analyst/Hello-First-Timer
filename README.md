@@ -2,7 +2,7 @@
 My first repository in GitHub. A lot of hopes here.
 
 My wish is to learn Machine learning & Deep learning concepts and implementation
-  Understanding more of Python and R will impress me a lot.
+  Understanding more of SQL, Python and R will impress me a lot: My table has Excel, SPSS, STATA analysis softwares already.
   Also if i could mash up my skills in HTML, CSS and Javascript i would be happier.
   I hope to achieve this abundantly.
 Getting the best learning source is a challenge.
